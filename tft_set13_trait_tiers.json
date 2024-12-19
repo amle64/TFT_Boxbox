@@ -1,6 +1,7 @@
 [
     {
       "trait_id": 13001,
+      "trait_name": "Academy",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 6, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -10,6 +11,7 @@
     },
     {
       "trait_id": 13002,
+      "trait_name": "Automata",
       "tiers": [
         {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -18,6 +20,7 @@
     },
     {
       "trait_id": 13003,
+      "trait_name": "Black Rose",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 7, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 7, "tier_name": "Silver"},
@@ -27,6 +30,7 @@
     },
     {
       "trait_id": 13004,
+      "trait_name": "Chem-Baron",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 7, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 7, "tier_name": "Silver"},
@@ -37,6 +41,7 @@
     },
     {
       "trait_id": 13005,
+      "trait_name": "Conqueror",
       "tiers": [
         {"tier_id": 1, "min_units": 2, "max_units": 9, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 9, "tier_name": "Silver"},
@@ -46,6 +51,7 @@
     },
     {
       "trait_id": 13006,
+      "trait_name": "Emissary",
       "tiers": [
         {"tier_id": 1, "min_units": 1, "max_units": 4, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 4, "tier_name": "Gold"}
@@ -53,6 +59,7 @@
     },
     {
       "trait_id": 13007,
+      "trait_name": "Enforcer",
       "tiers": [
         {"tier_id": 1, "min_units": 2, "max_units": 10, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 10, "tier_name": "Silver"},
@@ -63,6 +70,7 @@
     },
     {
       "trait_id": 13008,
+      "trait_name": "Experiment",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 7, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 5, "max_units": 7, "tier_name": "Silver"},
@@ -71,6 +79,7 @@
     },
     {
       "trait_id": 13009,
+      "trait_name": "Family",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 5, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 5, "tier_name": "Silver"},
@@ -79,6 +88,7 @@
     },
     {
       "trait_id": 13010,
+      "trait_name": "Firelight",
       "tiers": [
         {"tier_id": 1, "min_units": 2, "max_units": 4, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 3, "max_units": 4, "tier_name": "Silver"},
@@ -87,12 +97,14 @@
     },
     {
       "trait_id": 13011,
+      "trait_name": "Junker King",
       "tiers": [
         {"tier_id": 1, "min_units": 1, "max_units": 1, "tier_name": "Unique"}
       ]
     },
     {
       "trait_id": 13012,
+      "trait_name": "Rebel",
       "tiers": [
         {"tier_id": 1, "min_units": 3, "max_units": 10, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 5, "max_units": 10, "tier_name": "Silver"},
@@ -102,6 +114,7 @@
     },
     {
       "trait_id": 13013,
+      "trait_name": "Scrap",
       "tiers": [
         {"tier_id": 1, "min_units": 2, "max_units": 9, "tier_name": "Bronze"},
         {"tier_id": 2, "min_units": 4, "max_units": 9, "tier_name": "Silver"},
@@ -111,6 +124,7 @@
     },
     {
         "trait_id": 13014,
+        "trait_name": "Ambusher",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 5, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 3, "max_units": 5, "tier_name": "Silver"},
@@ -120,6 +134,7 @@
       },
       {
         "trait_id": 13015,
+        "trait_name": "Artillerist",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -128,6 +143,7 @@
       },
       {
         "trait_id": 13016,
+        "trait_name": "Bruiser",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -136,6 +152,7 @@
       },
       {
         "trait_id": 13017,
+        "trait_name": "Dominator",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -144,6 +161,7 @@
       },
       {
         "trait_id": 13018,
+        "trait_name": "Form Swapper",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 4, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 4, "tier_name": "Gold"}
@@ -151,6 +169,7 @@
       },
       {
         "trait_id": 13019,
+        "trait_name": "Pit Fighter",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 8, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 8, "tier_name": "Silver"},
@@ -160,6 +179,7 @@
       },
       {
         "trait_id": 13020,
+        "trait_name": "Quick Striker",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 4, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 3, "max_units": 4, "tier_name": "Silver"},
@@ -168,6 +188,7 @@
       },
       {
         "trait_id": 13021,
+        "trait_name": "Sentinel",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -176,6 +197,7 @@
       },
       {
         "trait_id": 13022,
+        "trait_name": "Sniper",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -184,6 +206,7 @@
       },
       {
         "trait_id": 13023,
+        "trait_name": "Sorcerer",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 8, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 8, "tier_name": "Silver"},
@@ -193,15 +216,17 @@
       },
       {
         "trait_id": 13024,
+        "trait_name": "Visionary",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 8, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 8, "tier_name": "Silver"},
           {"tier_id": 3, "min_units": 6, "max_units": 8, "tier_name": "Gold"},
-          {"tier_id": 4, "min_units": 6, "max_units": 8, "tier_name": "Gold"}
+          {"tier_id": 4, "min_units": 8, "max_units": 8, "tier_name": "Gold"}
         ]
       },
       {
         "trait_id": 13025,
+        "trait_name": "Watcher",
         "tiers": [
           {"tier_id": 1, "min_units": 2, "max_units": 6, "tier_name": "Bronze"},
           {"tier_id": 2, "min_units": 4, "max_units": 6, "tier_name": "Silver"},
@@ -210,18 +235,21 @@
       },
       {
         "trait_id": 13026,
+        "trait_name": "Blood Hunter",
         "tiers": [
           {"tier_id": 1, "min_units": 1, "max_units": 1, "tier_name": "Unique"}
         ]
       },
       {
         "trait_id": 13027,
+        "trait_name": "Machine Herald",
         "tiers": [
           {"tier_id": 1, "min_units": 1, "max_units": 1, "tier_name": "Unique"}
         ]
       },
       {
         "trait_id": 13028,
+        "trait_name": "Banished Mage",
         "tiers": [
           {"tier_id": 1, "min_units": 1, "max_units": 1, "tier_name": "Unique"}
         ]
